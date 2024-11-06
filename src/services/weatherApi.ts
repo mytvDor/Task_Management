@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
+const API_KEY = import.meta.env.WEATHER;
 
 export const fetchWeatherData = async (city: string) => {
   try {
