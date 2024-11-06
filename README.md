@@ -1,8 +1,7 @@
 # Advanced To-Do Application
 
 ## Live Link
-https://task-management-rlyp-o9t0z0dbc-mytvdors-projects.vercel.app/login
-
+https://task-management-rlyp.vercel.app/login
 Credentials:
 email: 113sumitdhonde@gmail.com
 password: 1234
