@@ -1,5 +1,12 @@
 # Advanced To-Do Application
 
+## Live Link
+https://task-management-rlyp-o9t0z0dbc-mytvdors-projects.vercel.app/login
+
+Credentials:
+email: 113sumitdhonde@gmail.com
+password: 1234
+
 ## Overview
 
 This project is an **Advanced To-Do Application** built with **React**, **TypeScript (TSX)**, and **Vite**. It allows users to create, manage, and track tasks with a clean and intuitive UI. The application integrates a login system using Redux for state management and includes features such as user authentication, weather data fetching, and task management.
@@ -98,15 +105,16 @@ Here’s a quick overview of the project structure:
 
 ### Login Page
 
-![Login Page](./assets/login-page.png)
+![Login Page](https://github.com/mytvDor/Task_Management/blob/244523d8cdf70527d8844b67591332277e5e2923/WhatsApp%20Image%202024-11-06%20at%204.25.49%20PM.jpeg)
 
 ### Task Management
 
-![Task Management](./assets/task-management.png)
+![Task Create](https://github.com/mytvDor/Task_Management/blob/244523d8cdf70527d8844b67591332277e5e2923/WhatsApp%20Image%202024-11-06%20at%204.23.30%20PM.jpeg)
 
+![Tasks](https://github.com/mytvDor/Task_Management/blob/244523d8cdf70527d8844b67591332277e5e2923/WhatsApp%20Image%202024-11-06%20at%204.25.05%20PM.jpeg)
 ### Weather Information
 
-![Weather Information](./assets/weather-info.png)
+![Weather Information](https://github.com/mytvDor/Task_Management/blob/244523d8cdf70527d8844b67591332277e5e2923/WhatsApp%20Image%202024-11-06%20at%204.25.29%20PM.jpeg)
 
 ## Technologies Used
 
