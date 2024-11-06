@@ -13,7 +13,7 @@ export default function Weather() {
   const fetchWeather = async () => {
     try {
       const response = await axios.get(
-         `https://api.weatherapi.com/v1/current.json?key=${import.meta.env.VITE_WEATHER_API_KEY}&q=${city}`
+         `https://api.weatherapi.com/v1/current.json?key=${import.meta.env.WEATHER}&q=${city}`
 )
       setWeather(response.data)
       setError('')
