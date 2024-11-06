@@ -25,7 +25,7 @@ export default function App() {
       <div className="min-h-screen bg-gray-900 text-white">
         <header className="bg-violet-800 shadow-lg">
           <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-            <h1 className="text-3xl font-bold">Advanced To-Do Application</h1>
+            <h1 className="text-3xl font-bold">To-do</h1>
             <div className="flex items-center space-x-4">
               <div className="flex items-center">
                 <span className="mr-3 text-sm font-medium text-gray-300">Weather</span>
