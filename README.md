@@ -25,7 +25,7 @@ This project is an **Advanced To-Do Application** built with **React**, **TypeSc
 1. **Clone the repository:**
 
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone https://github.com/mytvDor/Task_Management
    cd <YOUR_PROJECT_FOLDER>
    ```
 
