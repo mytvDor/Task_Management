@@ -23,14 +23,14 @@ const Login: React.FC = () => {
       <input
         type="email"
         placeholder="Email"
-        className="border p-2"
+        className="border p-2 text-black"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
       />
       <input
         type="password"
         placeholder="Password"
-        className="border p-2"
+        className="border p-2 text-black"
         value={password}
         onChange={(e) => setPassword(e.target.value)}
       />
